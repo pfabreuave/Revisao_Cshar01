@@ -1,0 +1,8 @@
+C:\Users\Pedro\Desktop\Documentos\Cshar\projetos_Csharp\Unidade1LinguagemCsharp\PiramideNumerada\bin\Debug\PiramideNumerada.exe.config
+C:\Users\Pedro\Desktop\Documentos\Cshar\projetos_Csharp\Unidade1LinguagemCsharp\PiramideNumerada\bin\Debug\PiramideNumerada.exe
+C:\Users\Pedro\Desktop\Documentos\Cshar\projetos_Csharp\Unidade1LinguagemCsharp\PiramideNumerada\bin\Debug\PiramideNumerada.pdb
+C:\Users\Pedro\Desktop\Documentos\Cshar\projetos_Csharp\Unidade1LinguagemCsharp\PiramideNumerada\obj\Debug\PiramideNumerada.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Documentos\Cshar\projetos_Csharp\Unidade1LinguagemCsharp\PiramideNumerada\obj\Debug\PiramideNumerada.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro\Desktop\Documentos\Cshar\projetos_Csharp\Unidade1LinguagemCsharp\PiramideNumerada\obj\Debug\PiramideNumerada.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Documentos\Cshar\projetos_Csharp\Unidade1LinguagemCsharp\PiramideNumerada\obj\Debug\PiramideNumerada.exe
+C:\Users\Pedro\Desktop\Documentos\Cshar\projetos_Csharp\Unidade1LinguagemCsharp\PiramideNumerada\obj\Debug\PiramideNumerada.pdb

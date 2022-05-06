@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiramideNumerada", "PiramideNumerada\PiramideNumerada.csproj", "{64223239-FFD2-47CD-BBFA-A306346C56A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vertice", "Vertice\Vertice.csproj", "{9472E381-191F-4477-89D4-88FA58F7744E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangulo", "Triangulo\Triangulo.csproj", "{E3610180-2D72-4D64-A054-8A87B1B87285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poligono", "Poligono\Poligono.csproj", "{094298F6-17BA-403D-BC06-9A3100C7B7BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intervalo", "Intervalo\Intervalo.csproj", "{284DC376-7FCE-4035-A011-5E7A661E3AD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaIntervalo", "ListaIntervalo\ListaIntervalo.csproj", "{55DFF2E9-C5A6-4E98-A093-9443D29151B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Description = Curso de Residência em Software – Formação Back-end. C# Unidade 1 
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64223239-FFD2-47CD-BBFA-A306346C56A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64223239-FFD2-47CD-BBFA-A306346C56A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64223239-FFD2-47CD-BBFA-A306346C56A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64223239-FFD2-47CD-BBFA-A306346C56A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9472E381-191F-4477-89D4-88FA58F7744E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9472E381-191F-4477-89D4-88FA58F7744E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9472E381-191F-4477-89D4-88FA58F7744E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9472E381-191F-4477-89D4-88FA58F7744E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3610180-2D72-4D64-A054-8A87B1B87285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3610180-2D72-4D64-A054-8A87B1B87285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3610180-2D72-4D64-A054-8A87B1B87285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3610180-2D72-4D64-A054-8A87B1B87285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{094298F6-17BA-403D-BC06-9A3100C7B7BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{094298F6-17BA-403D-BC06-9A3100C7B7BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{094298F6-17BA-403D-BC06-9A3100C7B7BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{094298F6-17BA-403D-BC06-9A3100C7B7BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{284DC376-7FCE-4035-A011-5E7A661E3AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284DC376-7FCE-4035-A011-5E7A661E3AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284DC376-7FCE-4035-A011-5E7A661E3AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284DC376-7FCE-4035-A011-5E7A661E3AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55DFF2E9-C5A6-4E98-A093-9443D29151B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DFF2E9-C5A6-4E98-A093-9443D29151B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55DFF2E9-C5A6-4E98-A093-9443D29151B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55DFF2E9-C5A6-4E98-A093-9443D29151B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAA3AFC3-797B-4196-BEB6-CDA2A1495599}
+	EndGlobalSection
+EndGlobal

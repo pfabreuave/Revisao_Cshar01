@@ -1,0 +1,8 @@
+C:\Users\Pedro\Desktop\Documentos\Cshar\projetos_Csharp\Unidade1LinguagemCsharp\Vertice\bin\Debug\Vertice.exe.config
+C:\Users\Pedro\Desktop\Documentos\Cshar\projetos_Csharp\Unidade1LinguagemCsharp\Vertice\bin\Debug\Vertice.exe
+C:\Users\Pedro\Desktop\Documentos\Cshar\projetos_Csharp\Unidade1LinguagemCsharp\Vertice\bin\Debug\Vertice.pdb
+C:\Users\Pedro\Desktop\Documentos\Cshar\projetos_Csharp\Unidade1LinguagemCsharp\Vertice\obj\Debug\Vertice.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Documentos\Cshar\projetos_Csharp\Unidade1LinguagemCsharp\Vertice\obj\Debug\Vertice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro\Desktop\Documentos\Cshar\projetos_Csharp\Unidade1LinguagemCsharp\Vertice\obj\Debug\Vertice.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Documentos\Cshar\projetos_Csharp\Unidade1LinguagemCsharp\Vertice\obj\Debug\Vertice.exe
+C:\Users\Pedro\Desktop\Documentos\Cshar\projetos_Csharp\Unidade1LinguagemCsharp\Vertice\obj\Debug\Vertice.pdb

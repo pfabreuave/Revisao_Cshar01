@@ -10,10 +10,17 @@ namespace PiramideNumerada
     {
         static void Main(string[] args)
         {
-            Piramide pir = new Piramide();
+            
+            Piramide piramide = new Piramide();
             Console.Write("\n altura da sua pirâmide: ");
-            pir.Nivelesp = Convert.ToInt32(Console.ReadLine());
-            pir.Desenha();
+            int m_altura;
+            while (!int.TryParse(Console.ReadLine(), out m_altura))
+            {
+                Console.WriteLine("\t\tInsira apenas números inteiros");
+                Console.Write("\n altura da sua pirâmide: ");
+            }
+            piramide.Nivelesp = m_altura; ;
+            piramide.Desenha();
             Console.ReadLine();
         }
     }
